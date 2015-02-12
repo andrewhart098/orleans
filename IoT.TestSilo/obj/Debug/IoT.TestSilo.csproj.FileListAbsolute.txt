@@ -1,0 +1,8 @@
+C:\Microsoft Project Orleans SDK v1.0\SDK\LocalSilo\DevTestClientConfiguration.xml
+C:\Microsoft Project Orleans SDK v1.0\SDK\LocalSilo\DevTestServerConfiguration.xml
+C:\Microsoft Project Orleans SDK v1.0\SDK\LocalSilo\IoT.TestSilo.exe.config
+C:\Microsoft Project Orleans SDK v1.0\SDK\LocalSilo\IoT.TestSilo.exe
+C:\Microsoft Project Orleans SDK v1.0\SDK\LocalSilo\IoT.TestSilo.pdb
+C:\Users\Andrew\Documents\Code\IoT.GrainInterfaces\IoT.TestSilo\obj\Debug\IoT.TestSilo.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Code\IoT.GrainInterfaces\IoT.TestSilo\obj\Debug\IoT.TestSilo.exe
+C:\Users\Andrew\Documents\Code\IoT.GrainInterfaces\IoT.TestSilo\obj\Debug\IoT.TestSilo.pdb

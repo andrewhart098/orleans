@@ -11,7 +11,7 @@ namespace IoT.GrainClasses
         double LastValue { get; set; }
     }
 
-    [StorageProvider(ProviderName = "AzureStore")]
+    [StorageProvider(ProviderName = "CustomStore")]
     public class DeviceGrain : Orleans.Grain<IDeviceGrainState>, IDeviceGrain
     {
 

@@ -3,3 +3,8 @@ C:\Users\Andrew\Documents\Code\IoT.GrainInterfaces\IoT.GrainInterfaces\bin\Debug
 C:\Users\Andrew\Documents\Code\IoT.GrainInterfaces\IoT.GrainInterfaces\obj\Debug\IoT.GrainInterfaces.csprojResolveAssemblyReference.cache
 C:\Users\Andrew\Documents\Code\IoT.GrainInterfaces\IoT.GrainInterfaces\obj\Debug\IoT.GrainInterfaces.dll
 C:\Users\Andrew\Documents\Code\IoT.GrainInterfaces\IoT.GrainInterfaces\obj\Debug\IoT.GrainInterfaces.pdb
+C:\Users\roo\Source\Repos\orleans\IoT.GrainInterfaces\bin\Debug\IoT.GrainInterfaces.dll
+C:\Users\roo\Source\Repos\orleans\IoT.GrainInterfaces\bin\Debug\IoT.GrainInterfaces.pdb
+C:\Users\roo\Source\Repos\orleans\IoT.GrainInterfaces\obj\Debug\IoT.GrainInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\roo\Source\Repos\orleans\IoT.GrainInterfaces\obj\Debug\IoT.GrainInterfaces.dll
+C:\Users\roo\Source\Repos\orleans\IoT.GrainInterfaces\obj\Debug\IoT.GrainInterfaces.pdb

@@ -5,3 +5,10 @@ C:\Users\Andrew\Documents\Code\IoT.GrainInterfaces\IoT.GrainClasses\bin\Debug\Io
 C:\Users\Andrew\Documents\Code\IoT.GrainInterfaces\IoT.GrainClasses\obj\Debug\IoT.GrainClasses.csprojResolveAssemblyReference.cache
 C:\Users\Andrew\Documents\Code\IoT.GrainInterfaces\IoT.GrainClasses\obj\Debug\IoT.GrainClasses.dll
 C:\Users\Andrew\Documents\Code\IoT.GrainInterfaces\IoT.GrainClasses\obj\Debug\IoT.GrainClasses.pdb
+C:\Users\roo\Source\Repos\orleans\IoT.GrainClasses\bin\Debug\IoT.GrainClasses.dll
+C:\Users\roo\Source\Repos\orleans\IoT.GrainClasses\bin\Debug\IoT.GrainClasses.pdb
+C:\Users\roo\Source\Repos\orleans\IoT.GrainClasses\bin\Debug\IoT.GrainInterfaces.dll
+C:\Users\roo\Source\Repos\orleans\IoT.GrainClasses\bin\Debug\IoT.GrainInterfaces.pdb
+C:\Users\roo\Source\Repos\orleans\IoT.GrainClasses\obj\Debug\IoT.GrainClasses.csprojResolveAssemblyReference.cache
+C:\Users\roo\Source\Repos\orleans\IoT.GrainClasses\obj\Debug\IoT.GrainClasses.dll
+C:\Users\roo\Source\Repos\orleans\IoT.GrainClasses\obj\Debug\IoT.GrainClasses.pdb

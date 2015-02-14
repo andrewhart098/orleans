@@ -66,6 +66,10 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\IoT.FileStorage\IoT.FileStorage.csproj">
+      <Project>{98d6f3ae-b467-4331-8392-179e836d7261}</Project>
+      <Name>IoT.FileStorage</Name>
+    </ProjectReference>
     <ProjectReference Include="..\IoT.GrainClasses\IoT.GrainClasses.csproj">
       <Project>{e9de2d72-bb58-46a5-b640-382c4631ec7a}</Project>
       <Name>IoT.GrainClasses</Name>
